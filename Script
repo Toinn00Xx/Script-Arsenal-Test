@@ -1,4 +1,4 @@
-local lib = loadstring(game:HttpGet('https://raw.githubusercontent.com/TheoTheEpic/AquaLib/main/AquaLib.lua'))()
+local lib = loadstring(game:HttpGet('https://raw.githubusercontent.com/Toinn00Xx/Script-Arsenal-Test/main/Script'))()
 
 local window = lib.createWindow("This Is A Window", "Script Arsenal V1", true) -- lib.createWindow(title, name, draggable)
 local tab1 = window.createTab("MAIN") -- window.createTab(name)
